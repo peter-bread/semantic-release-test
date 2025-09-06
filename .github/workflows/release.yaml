@@ -27,7 +27,8 @@ jobs:
             semantic-release \
             @semantic-release/git \
             @semantic-release/github \
-            @semantic-release/exec
+            @semantic-release/exec \
+            conventional-changelog-conventionalcommits
 
       - name: Run semantic-release
         run: npx semantic-release
