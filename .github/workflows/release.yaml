@@ -15,6 +15,10 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: install stuff
+        run: |
+          npm install -g @semantic-release/exec
+
       - name: run semantic-release
         run: npx semantic-release
         env:
