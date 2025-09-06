@@ -2,10 +2,12 @@
 name: release
 
 on:
-  push:
+  workflow_dispatch:
 
 permissions:
   contents: write
+  issues: write
+  pull-requests: write
 
 jobs:
   release:
@@ -15,11 +17,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: install stuff
-        run: |
-          npm install -g @semantic-release/exec -D
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
 
-      - name: run semantic-release
+      - name: Install Dev Dependencies
+        run: |
+          npm install -D \
+            semantic-release \
+            @semantic-release/git \
+            @semantic-release/github \
+            @semantic-release/exec
+
+      - name: Run semantic-release
         run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
