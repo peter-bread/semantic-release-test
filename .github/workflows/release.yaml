@@ -23,7 +23,7 @@ jobs:
 
       - name: Install Dev Dependencies
         run: |
-          npm install -D \
+          npm install -g \
             semantic-release \
             @semantic-release/git \
             @semantic-release/github \
