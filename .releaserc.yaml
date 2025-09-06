@@ -2,3 +2,4 @@
 branches:
   - main
 
+repositoryUrl: "https://github.com/peter-bread/semantic-release-test"
