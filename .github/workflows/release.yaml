@@ -28,6 +28,7 @@ jobs:
             @semantic-release/git \
             @semantic-release/github \
             @semantic-release/exec \
+            @semantic-release/changelog \
             conventional-changelog-conventionalcommits
 
       - name: Run semantic-release
