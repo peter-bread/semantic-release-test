@@ -2,13 +2,12 @@
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
-    "@semantic-release/github",
     [
-      "@semantic-release/exec",
+      "@semantic-release/git",
       {
-        "prepareCmd": "set-version ${nextRelease.version}",
-        "publishCmd": "publish-package"
+        "message": "chore(release): ${nextRelease.version}"
       }
-    ]
+    ],
+    "@semantic-release/github"
   ]
 }
