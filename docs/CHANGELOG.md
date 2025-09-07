@@ -1,3 +1,9 @@
+## [4.3.0](https://github.com/peter-bread/semantic-release-test/compare/v4.2.0...v4.3.0) (2025-09-07)
+
+### Features
+
+* **cheese:** adds gruyère ([25b4f55](https://github.com/peter-bread/semantic-release-test/commit/25b4f55ad6bb30942dcdc25e1a1176d29b76c400))
+
 ## [4.2.0](https://github.com/peter-bread/semantic-release-test/compare/v4.1.0...v4.2.0) (2025-09-07)
 
 ### Features
