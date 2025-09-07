@@ -1,4 +1,4 @@
-cheddar
-mouldy
-blue
-smelly
+Cheddar
+Mouldy
+Blue
+Smelly
