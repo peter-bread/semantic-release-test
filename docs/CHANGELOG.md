@@ -1,3 +1,10 @@
+## [4.2.0](https://github.com/peter-bread/semantic-release-test/compare/v4.1.0...v4.2.0) (2025-09-07)
+
+### Features
+
+* **cheese:** adds brie ([7f1680d](https://github.com/peter-bread/semantic-release-test/commit/7f1680d0c2636c07ab576d0cda3477fb0e1cb931))
+* **cheese:** adds red leicester ([4081699](https://github.com/peter-bread/semantic-release-test/commit/4081699b6ed4d96077dae699f771cd134f30122f))
+
 ## [4.1.0](https://github.com/peter-bread/semantic-release-test/compare/v4.0.0...v4.1.0) (2025-09-07)
 
 ### Features
