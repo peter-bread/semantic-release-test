@@ -2,11 +2,19 @@
 
 set -euo pipefail
 
-WORKFLOW_NAME="release.yaml"
+WORKFLOW="release.yaml"
 BRANCH="main"
 
-RUN_ID=$(gh workflow run "$WORKFLOW_NAME" -r "$BRANCH" --json run_id -q .run_id)
-echo "Triggered workflow run: $RUN_ID"
+gh workflow run "$WORKFLOW" -r "$BRANCH"
+
+RUN_ID=$(
+  gh run list \
+    --workflow "$WORKFLOW" \
+    --branch "$BRANCH" \
+    --limit 1 \
+    --json databaseId \
+    --jq '.[0].databaseId'
+)
 
 gh run watch "$RUN_ID" && {
   echo "Fetching latest changes..."
