@@ -1,3 +1,14 @@
+## [4.1.0](https://github.com/peter-bread/semantic-release-test/compare/v4.0.0...v4.1.0) (2025-09-07)
+
+### Features
+
+* **cheese:** adds blue ([78b02b5](https://github.com/peter-bread/semantic-release-test/commit/78b02b570ec1ee63d15ff859141e52384930e418))
+* **cheese:** adds smelly ([539b10d](https://github.com/peter-bread/semantic-release-test/commit/539b10dfce92f10f2d1f00695ca82b5e92f11b48))
+
+### Bug Fixes
+
+* **cheese:** capitalise cheeses ([16fc848](https://github.com/peter-bread/semantic-release-test/commit/16fc8482b1b967accbdb4488edcf276a657139c2))
+
 ## [4.0.0](https://github.com/peter-bread/semantic-release-test/compare/v3.3.0...v4.0.0) (2025-09-06)
 
 ### ⚠ BREAKING CHANGES
