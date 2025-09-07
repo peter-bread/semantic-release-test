@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+WORKFLOW_NAME="release.yaml"
+BRANCH="main"
+
+RUN_ID=$(gh workflow run "$WORKFLOW_NAME" -r "$BRANCH" --json run_id -q .run_id)
+echo "Triggered workflow run: $RUN_ID"
+
+gh run watch "$RUN_ID" && {
+  echo "Fetching latest changes..."
+  git fetch origin "$BRANCH"
+  git fetch --tags
+}
+
+echo "✅ Repo is up to date with release commit and tags."
