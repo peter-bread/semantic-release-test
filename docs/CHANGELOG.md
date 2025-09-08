@@ -1,3 +1,9 @@
+## [6.1.0](https://github.com/peter-bread/semantic-release-test/compare/v6.0.0...v6.1.0) (2025-09-08)
+
+### Features
+
+* **cheese:** adds brie ([c6aabc5](https://github.com/peter-bread/semantic-release-test/commit/c6aabc54d38d27f49e9bccb2ba5b08da82f6cb6c))
+
 ## [6.0.0](https://github.com/peter-bread/semantic-release-test/compare/v5.0.0...v6.0.0) (2025-09-08)
 
 ### ⚠ BREAKING CHANGES
