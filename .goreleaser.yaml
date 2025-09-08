@@ -34,4 +34,5 @@ release:
 
     ---
 
-    Released by [GoReleaser](https://github.com/goreleaser/goreleaser).
+    Released by [semantic-release](https://github.com/semantic-release/semantic-release) and [GoReleaser](https://github.com/goreleaser/goreleaser).
+
