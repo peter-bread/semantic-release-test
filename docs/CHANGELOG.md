@@ -1,3 +1,17 @@
+## [6.3.0](https://github.com/peter-bread/semantic-release-test/compare/v6.2.0...v6.3.0) (2025-09-08)
+
+### Features
+
+* **cheese:** remove red leicester ([7d21719](https://github.com/peter-bread/semantic-release-test/commit/7d21719722e350c8645b03d9c0f2f1c66ac47bec))
+
+### Bug Fixes
+
+* **cheese:** replace gruyère with brie ([de0351c](https://github.com/peter-bread/semantic-release-test/commit/de0351c0d6a495c484dec51059315e2a551ec457))
+
+### Documentation
+
+* **README:** add test 3 ([a18a776](https://github.com/peter-bread/semantic-release-test/commit/a18a776996af5b96572cc5a9140fcf6db079ec52))
+
 ## [6.2.0](https://github.com/peter-bread/semantic-release-test/compare/v6.1.1...v6.2.0) (2025-09-08)
 
 ## [6.1.1](https://github.com/peter-bread/semantic-release-test/compare/v6.1.0...v6.1.1) (2025-09-08)
