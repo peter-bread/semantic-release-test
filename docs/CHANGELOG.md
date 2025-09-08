@@ -1,3 +1,9 @@
+## [4.13.0](https://github.com/peter-bread/semantic-release-test/compare/v4.12.0...v4.13.0) (2025-09-08)
+
+### Features
+
+* **go:** add fullstop ([17f87b0](https://github.com/peter-bread/semantic-release-test/commit/17f87b04d03122f6a1954606a6b408fc0afc8017))
+
 ## [4.12.0](https://github.com/peter-bread/semantic-release-test/compare/v4.11.1...v4.12.0) (2025-09-08)
 
 ### Features
