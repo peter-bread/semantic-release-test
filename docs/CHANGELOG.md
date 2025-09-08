@@ -1,3 +1,9 @@
+## [4.8.0](https://github.com/peter-bread/semantic-release-test/compare/v4.7.0...v4.8.0) (2025-09-08)
+
+### Features
+
+* add go stuff ([f5335cb](https://github.com/peter-bread/semantic-release-test/commit/f5335cb158711ea27ddac46f6b9595eaab44d1f9))
+
 ## [4.7.0](https://github.com/peter-bread/semantic-release-test/compare/v4.6.0...v4.7.0) (2025-09-08)
 
 ### Features
