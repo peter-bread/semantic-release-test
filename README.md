@@ -6,3 +6,4 @@ Testing automated GitHub Releases using:
 - goreleaser
 
 Test.
+Test 2.
