@@ -1,3 +1,9 @@
+## [4.6.0](https://github.com/peter-bread/semantic-release-test/compare/v4.5.0...v4.6.0) (2025-09-08)
+
+### Features
+
+* **cheese:** remove cheddar ([ed218b7](https://github.com/peter-bread/semantic-release-test/commit/ed218b70be58b1bba4a5f0d77316287bde3077ea))
+
 ## [4.5.0](https://github.com/peter-bread/semantic-release-test/compare/v4.4.0...v4.5.0) (2025-09-08)
 
 ### Features
