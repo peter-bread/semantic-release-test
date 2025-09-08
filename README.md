@@ -4,3 +4,5 @@ Testing automated GitHub Releases using:
 
 - semantic-release
 - goreleaser
+
+Test.
