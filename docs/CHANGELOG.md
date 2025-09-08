@@ -1,3 +1,9 @@
+## [4.5.0](https://github.com/peter-bread/semantic-release-test/compare/v4.4.0...v4.5.0) (2025-09-08)
+
+### Features
+
+* **cheese:** remove blue ([cc7e214](https://github.com/peter-bread/semantic-release-test/commit/cc7e214b805587bb6b601f1b6e12f2cc3eee1c5b))
+
 ## [4.4.0](https://github.com/peter-bread/semantic-release-test/compare/v4.3.0...v4.4.0) (2025-09-08)
 
 ### Features
