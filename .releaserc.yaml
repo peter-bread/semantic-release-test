@@ -2,7 +2,11 @@
 preset: conventionalcommits
 plugins:
   - "@semantic-release/commit-analyzer"
-  - "@semantic-release/release-notes-generator"
+  - - "@semantic-release/release-notes-generator"
+    - presetConfig:
+        types:
+          - type: docs
+            section: "Documentation"
   - - "@semantic-release/changelog"
     - changelogFile: "docs/CHANGELOG.md"
   - - "@semantic-release/git"
