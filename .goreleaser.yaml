@@ -21,18 +21,9 @@ archives:
       - goos: darwin
         formats: [tar.gz, zip]
 
-changelog:
-  sort: asc
-  filters:
-    exclude:
-      - "^docs:"
-      - "^test:"
-
-
 release:
   footer: >-
 
     ---
 
     Released by [semantic-release](https://github.com/semantic-release/semantic-release) and [GoReleaser](https://github.com/goreleaser/goreleaser).
-
