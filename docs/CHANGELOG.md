@@ -1,3 +1,9 @@
+## [4.10.0](https://github.com/peter-bread/semantic-release-test/compare/v4.9.0...v4.10.0) (2025-09-08)
+
+### Features
+
+* **cheese:** adds smelly ([a18d3b0](https://github.com/peter-bread/semantic-release-test/commit/a18d3b0ad9c765fc6edf48810c5d0233d0d64ade))
+
 ## [4.9.0](https://github.com/peter-bread/semantic-release-test/compare/v4.8.0...v4.9.0) (2025-09-08)
 
 ### Features
