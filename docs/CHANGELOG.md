@@ -1,3 +1,10 @@
+## [6.1.1](https://github.com/peter-bread/semantic-release-test/compare/v6.1.0...v6.1.1) (2025-09-08)
+
+### Documentation
+
+* **README:** adds test ([0abcf53](https://github.com/peter-bread/semantic-release-test/commit/0abcf53801afa4dae703ea23805b0ca9f3e00967))
+* **README:** adds test 2 ([7532dd6](https://github.com/peter-bread/semantic-release-test/commit/7532dd60b0ff2c672dc1f0613d7f1f51168a66cd))
+
 ## [6.1.0](https://github.com/peter-bread/semantic-release-test/compare/v6.0.0...v6.1.0) (2025-09-08)
 
 ### Features
