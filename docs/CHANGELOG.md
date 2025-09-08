@@ -1,3 +1,13 @@
+## [5.0.0](https://github.com/peter-bread/semantic-release-test/compare/v4.14.0...v5.0.0) (2025-09-08)
+
+### ⚠ BREAKING CHANGES
+
+* **cheese:** Cheddar cheese is no longer available.
+
+### Features
+
+* **cheese:** remove cheddar ([5fb9b73](https://github.com/peter-bread/semantic-release-test/commit/5fb9b73b602a57863b7513b5a7c49555c2c923ce))
+
 ## [4.14.0](https://github.com/peter-bread/semantic-release-test/compare/v4.13.0...v4.14.0) (2025-09-08)
 
 ### Features
