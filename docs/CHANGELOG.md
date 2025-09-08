@@ -1,3 +1,9 @@
+## [4.9.0](https://github.com/peter-bread/semantic-release-test/compare/v4.8.0...v4.9.0) (2025-09-08)
+
+### Features
+
+* **go:** update ([887f1db](https://github.com/peter-bread/semantic-release-test/commit/887f1db8a7beb4234531a58e672c7a6a0cb90783))
+
 ## [4.8.0](https://github.com/peter-bread/semantic-release-test/compare/v4.7.0...v4.8.0) (2025-09-08)
 
 ### Features
