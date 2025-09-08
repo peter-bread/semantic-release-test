@@ -17,6 +17,9 @@ archives:
       {{- else }}{{ .Arch }}{{ end }}
       {{- if .Arm }}v{{ .Arm }}{{ end }}
     wrap_in_directory: true
+    format_overrides:
+      - goos: darwin
+        formats: [tar.gz, zip]
 
 changelog:
   sort: asc
