@@ -1,3 +1,9 @@
+## [4.12.0](https://github.com/peter-bread/semantic-release-test/compare/v4.11.1...v4.12.0) (2025-09-08)
+
+### Features
+
+* **cheese:** remove mouldy ([c506089](https://github.com/peter-bread/semantic-release-test/commit/c506089168bd8d87523c7932b48cb34072df9509))
+
 ## [4.11.1](https://github.com/peter-bread/semantic-release-test/compare/v4.11.0...v4.11.1) (2025-09-08)
 
 ### Bug Fixes
