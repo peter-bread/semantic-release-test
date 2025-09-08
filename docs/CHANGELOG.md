@@ -1,3 +1,9 @@
+## [4.4.0](https://github.com/peter-bread/semantic-release-test/compare/v4.3.0...v4.4.0) (2025-09-08)
+
+### Features
+
+* **cheese:** remove smelly ([23bc0aa](https://github.com/peter-bread/semantic-release-test/commit/23bc0aa8a825d3726e80e0e8d8597a3f8ef408ff))
+
 ## [4.3.0](https://github.com/peter-bread/semantic-release-test/compare/v4.2.0...v4.3.0) (2025-09-07)
 
 ### Features
