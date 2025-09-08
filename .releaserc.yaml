@@ -14,10 +14,10 @@ plugins:
     - publishCmd: |
         echo "${nextRelease.notes}" > /tmp/release-notes.md
         goreleaser release --release-notes /tmp/release-notes.md --clean
-  - - "@semantic-release/github"
-    - releaseBodyTemplate: |
-        <%= nextRelease.notes %>
-
-        ---
-
-        Your mum!!!
+# - - "@semantic-release/github"
+#   - releaseBodyTemplate: |
+#       <%= nextRelease.notes %>
+#
+#       ---
+#
+#       Your mum!!!
