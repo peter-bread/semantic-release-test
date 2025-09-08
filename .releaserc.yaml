@@ -10,10 +10,10 @@ plugins:
     - assets:
         - docs/CHANGELOG.md
       message: "chore(release): ${nextRelease.version} [skip ci]"
-  # - - "@semantic-release/exec"
-  #   - publishCmd: |
-  #       echo "${nextRelease.notes}" > /tmp/notes.md
-  #       echo "\n\nFrom Me" >> /tmp/notes.md
+  - - "@semantic-release/exec"
+    - publishCmd: |
+        echo "${nextRelease.notes}" > /tmp/release-notes.md
+        goreleaser release --release-notes /tmp/release-notes.md --clean
   - - "@semantic-release/github"
     - releaseBodyTemplate: |
         <%= nextRelease.notes %>
