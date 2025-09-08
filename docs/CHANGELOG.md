@@ -1,3 +1,9 @@
+## [4.11.1](https://github.com/peter-bread/semantic-release-test/compare/v4.11.0...v4.11.1) (2025-09-08)
+
+### Bug Fixes
+
+* **go:** add newline ([faca2f5](https://github.com/peter-bread/semantic-release-test/commit/faca2f518e598e046fda08a11e32d4bca568cc6c))
+
 ## [4.11.0](https://github.com/peter-bread/semantic-release-test/compare/v4.10.0...v4.11.0) (2025-09-08)
 
 ### Features
