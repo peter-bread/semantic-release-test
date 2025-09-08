@@ -1,3 +1,5 @@
+## [6.2.0](https://github.com/peter-bread/semantic-release-test/compare/v6.1.1...v6.2.0) (2025-09-08)
+
 ## [6.1.1](https://github.com/peter-bread/semantic-release-test/compare/v6.1.0...v6.1.1) (2025-09-08)
 
 ### Documentation
